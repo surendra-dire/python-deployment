@@ -1,0 +1,8 @@
+replicaCount: 2
+
+image:
+  repository: surendradev101/my-python-app
+  tag: latest
+
+service:
+  nodePort: 30007
