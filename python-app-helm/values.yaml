@@ -2,7 +2,7 @@ replicaCount: 2
 
 image:
   repository: surendradev101/my-python-app
-  tag: latest
+  tag: v20
 
 service:
   nodePort: 30007
