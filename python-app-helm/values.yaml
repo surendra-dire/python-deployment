@@ -1,7 +1,7 @@
 replicaCount: 2
 
 image:
-  repository: surendradev101/my-python-app
+  repository: surendradev101/python-app-image
   tag: v20
 
 service:
