@@ -6,3 +6,4 @@ image:
 
 service:
   nodePort: 30007
+ 
